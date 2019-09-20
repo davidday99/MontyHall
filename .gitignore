@@ -1,0 +1,14 @@
+# Intellij Directories
+.idea/
+out/
+
+# Intellij file types
+*.iml
+
+# Other unnecessary file types
+*.com
+*.class
+*.exe
+*.jar
+*.rar
+*.zip
